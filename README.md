@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [ZarpSystem](http://www.zarpsystem.com.br/)
 - 🌱 I’m currently learning more of NodeJS, React and ReactNative
-
+- ⚡ Fun fact: **Some years ago i thought it git makes only a code semantic version** 
 <p align="center">
             <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
             <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="python" width="20" height="20"/>
