@@ -14,7 +14,7 @@
 <p>Always curious about technology and how things works.</p>
 <p>Passionate about learn new things.</p>
 
-- 🔭 I’m currently working on [ZarpSystem](http://www.zarpsystem.com.br/)
+- 🔭 I’m currently working at [ZarpSystem](http://www.zarpsystem.com.br/)
 - 🌱 I’m currently learning more of NodeJS, React and ReactNative
 - ⚡ Fun fact: **Some years ago i thought it git makes only a code semantic version** 
 <p align="center">
