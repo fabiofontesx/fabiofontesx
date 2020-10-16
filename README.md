@@ -10,7 +10,7 @@
   </a>
 </p>  
 
-<p>I started with software development on my Science Computer degree initially with  procedural programming concepts with C Language, followed by  OOP concepts with Java.</p>
+<p>I started with software development on my Computer Science degree initially with  procedural programming concepts with C Language, followed by  OOP concepts with Java.</p>
 <p>Always curious about technology and how things works.</p>
 <p>Passionate about learn new things.</p>
 
