@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabio-fontes-b00a23174/" target="_blank"> Linkedin</a>
-   <a href="https://twitter.com/fabiofontesx_" target="_blank"> Twitter </a>
 </p>  
 
 <p>I started with software development on my Computer Science degree initially with  procedural programming concepts with C Language, followed by  OOP concepts with Java.</p>
